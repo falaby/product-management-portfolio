@@ -29,6 +29,15 @@ title: "Welcome to My Product Management Portfolio"
 ### [Arcade Extravaganza](https://falaby.github.io/AnthillDefense/){.project-title target="_blank"}
 
 [Three entertaining mini games.]{.project-description}
+
+<div class="project-buttons">
+<a href="https://anthill-defense.vercel.app/" class="btn btn-outline-primary btn-sm" target="_blank">
+  <i class="fas fa-external-link-alt"></i> Vercel Link
+</a>
+<a href="https://github.com/falaby/AnthillDefense" class="btn btn-outline-primary btn-sm" target="_blank">
+  <i class="fab fa-github"></i> GitHub Source Code
+</a>
+</div>
 :::
 
 :::
