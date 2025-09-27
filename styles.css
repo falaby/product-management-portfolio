@@ -154,7 +154,7 @@ li {
 
 .skills-list li::before {
   content: "▶";
-  color: #007bff;
+  color: #6c757d;
   position: absolute;
   left: 0;
 }
@@ -194,12 +194,12 @@ li {
 /* Link styling */
 a {
   text-decoration: none;
-  color: #007bff;
+  color: #6c757d;
   transition: color 0.2s ease;
 }
 
 a:hover {
-  color: #0056b3;
+  color: #495057;
   text-decoration: underline;
 }
 
@@ -244,4 +244,41 @@ img {
   max-width: 200px;
   margin: 0 auto 2rem;
   display: block;
+}
+
+/* Professional gray theme overrides */
+.btn-primary {
+  background-color: #6c757d;
+  border-color: #6c757d;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #5a6268;
+  border-color: #545b62;
+  color: white;
+}
+
+.btn-outline-primary {
+  color: #6c757d;
+  border-color: #6c757d;
+}
+
+.btn-outline-primary:hover {
+  background-color: #6c757d;
+  border-color: #6c757d;
+  color: white;
+}
+
+/* Custom navbar styling for gray theme */
+.navbar-secondary {
+  background-color: #6c757d !important;
+}
+
+.navbar-secondary .navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-secondary .navbar-nav .nav-link:hover {
+  color: #e9ecef !important;
 }

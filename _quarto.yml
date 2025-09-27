@@ -6,7 +6,7 @@ website:
   title: "Scott Mahoney - Product Management Portfolio"
   favicon: images/prototyping-favicon.png
   navbar:
-    background: primary
+    background: secondary
     left:
       - href: index.qmd
         text: Home
