@@ -21,43 +21,6 @@ title: "About Me"
 
 I'm a BYU strategy student diving head-first into Product Management! I'm passionate about understanding user needs and building solutions that make a real impact. My journey into product management combines analytical thinking with creative problem-solving to deliver meaningful experiences.
 
-### Education
+## Interests
 
-- **Strategy**, Brigham Young University (Expected Graduation)
-- **Relevant Coursework**: Product Management, Business Analytics, Strategic Planning
-- **Academic Focus**: Product strategy and user experience design
-
-### Experience
-
-#### Job/Internship Title - Company Name
-*Dates*
-
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
-
-#### Another Position - Company Name
-*Dates*
-
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
-
-### Skills & Interests
-
-**Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
-
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
-
-**Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
-
-### What's Next
-
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+When not creating impactful solutions, I enjoy mountain biking, hiking, and learning new things.

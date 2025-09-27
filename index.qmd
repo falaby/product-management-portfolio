@@ -21,8 +21,13 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Arcade Extravaganza](https://falaby.github.io/AnthillDefense/)
-A fun arcade-style game showcasing interactive web development skills. 
+<div class="project-preview">
+  <img src="images/arcade-extravaganza.png" alt="Arcade Extravaganza Preview" class="project-image">
+  <div class="project-content">
+    <h3><a href="https://falaby.github.io/AnthillDefense/" target="_blank">Arcade Extravaganza</a></h3>
+    <p>A fun arcade-style game showcasing interactive web development skills.</p>
+  </div>
+</div>
 
 :::
 
