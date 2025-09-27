@@ -23,7 +23,7 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.project-preview}
 
-![Arcade Extravaganza Preview](images/arcade-extravaganza.png){.project-image}
+![](images/arcade-extravaganza.png){.project-image}
 
 ::: {.project-content}
 ### [Arcade Extravaganza](https://falaby.github.io/AnthillDefense/){.project-title target="_blank"}
