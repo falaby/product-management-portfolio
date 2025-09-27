@@ -28,8 +28,7 @@ title: "Welcome to My Product Management Portfolio"
 ::: {.project-content}
 ### [Arcade Extravaganza](https://falaby.github.io/AnthillDefense/){.project-title target="_blank"}
 
-Three entertaining mini games.
-{.project-description}
+[Three entertaining mini games.]{.project-description}
 :::
 
 :::
