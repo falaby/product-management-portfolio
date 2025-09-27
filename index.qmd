@@ -21,13 +21,18 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-<div class="project-preview">
-  <img src="images/arcade-extravaganza.png" alt="Arcade Extravaganza Preview" class="project-image">
-  <div class="project-content">
-    <h3 class="project-title"><a href="https://falaby.github.io/AnthillDefense/" target="_blank">Arcade Extravaganza</a></h3>
-    <p class="project-description">A fun arcade-style game showcasing interactive web development skills.</p>
-  </div>
-</div>
+::: {.project-preview}
+
+![Arcade Extravaganza Preview](images/arcade-extravaganza.png){.project-image}
+
+::: {.project-content}
+### [Arcade Extravaganza](https://falaby.github.io/AnthillDefense/){.project-title target="_blank"}
+
+A fun arcade-style game showcasing interactive web development skills.
+{.project-description}
+:::
+
+:::
 
 :::
 
