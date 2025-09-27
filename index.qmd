@@ -21,8 +21,8 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Sprint 1 Portfolio Website](projects/project-1.qmd)
-My first deployed portfolio website showcasing my journey into product management. 
+### [Arcade Extravaganza](https://falaby.github.io/AnthillDefense/)
+A fun arcade-style game showcasing interactive web development skills. 
 
 :::
 
