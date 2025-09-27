@@ -354,23 +354,25 @@ img {
   flex: 1;
 }
 
-.project-content h3 {
-  margin-bottom: 0.5rem;
-  margin-top: 0;
+.project-title {
+  margin-bottom: 0.5rem !important;
+  margin-top: 0 !important;
+  font-size: 1.25rem !important;
+  font-weight: 600 !important;
 }
 
-.project-content h3 a {
-  color: #495057;
-  text-decoration: none;
+.project-title a {
+  color: #495057 !important;
+  text-decoration: none !important;
 }
 
-.project-content h3 a:hover {
-  color: #6c757d;
-  text-decoration: underline;
+.project-title a:hover {
+  color: #6c757d !important;
+  text-decoration: underline !important;
 }
 
-.project-content p {
-  margin-bottom: 0;
-  color: #6c757d;
-  font-size: 0.9rem;
+.project-description {
+  margin-bottom: 0 !important;
+  color: #6c757d !important;
+  font-size: 0.9rem !important;
 }
